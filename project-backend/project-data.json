@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "AI-Powered Chatbot"
+    },
+    {
+        "id": 2,
+        "name": "Machine Learning Stock Predictor"
+    },
+    {
+        "id": 3,
+        "name": "Network Security Analyzer"
+    },
+    {
+        "id": 4,
+        "name": "Blockchain-Based Voting System"
+    },
+    {
+        "id": 5,
+        "name": "Real-Time Face Recognition"
+    },
+    {
+        "id": 6,
+        "name": "Cyber Threat Detection System"
+    },
+    {
+        "id": 7,
+        "name": "Data Mining for E-Commerce Trends"
+    },
+    {
+        "id": 8,
+        "name": "3D Game Development with Unity"
+    },
+    {
+        "id": 9,
+        "name": "Cloud-Based File Sharing Platform"
+    },
+    {
+        "id": 10,
+        "name": "IoT-Based Smart Home Automation"
+    }
+]
